@@ -36,8 +36,8 @@ If not, install from: [https://www.rust-lang.org/tools/install](https://www.rust
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/imck037/http-web-server.git
+cd http-web-server
 ```
 
 ## Running the Server
